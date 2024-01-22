@@ -1,5 +1,6 @@
 # Light Control Box 
 
-This code is used to control 4 LED light strings connected to an Arduino Pro Mini. The light sequence is chosen based on user input from 4 external swiches. The light sequence associate to each switch can be reassigned using a serial interface. The available sequences to choose from is defined in the code. 
+Mini LED light string controller used to output different light patterns based on input from external buttons. The system runs on an Arduino Pro Mini. 
 
-For for information on the project visit https://samueldonnelly11.wixsite.com/projects
+Project Code: <a href="https://github.com/samdonnelly/Light-Control-Box/tree/main/src">src</a>, <a href="https://github.com/samdonnelly/Light-Control-Box/tree/main/include">inc</a> \
+Project Build and Background: <a href="https://samueldonnelly11.wixsite.com/builds/light-control-box">Link</a> 
